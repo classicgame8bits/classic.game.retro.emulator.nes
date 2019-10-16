@@ -11,7 +11,7 @@
   "showNewGames": false,
   "newGames": [
     {
-      "name": "Merge Hero aaa",
+      "name": "Merge Hero classic.game.retro.emulator.nes",
       "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/com.classic.games.retro.emulator.nes/master/merge_hero_banner.png",
       "downloadUrl": "market://details?id=com.classic.game.mergehero"
     }
