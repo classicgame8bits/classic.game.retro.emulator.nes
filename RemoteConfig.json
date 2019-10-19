@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=com.classic.game.emulator.retro.nes",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 3,
+  "showNESGamesTimeDelay": 10,
   "adsNetwork": 0,
   "adsType": 0,
   "showNewGames": false,
