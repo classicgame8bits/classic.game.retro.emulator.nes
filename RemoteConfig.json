@@ -8,12 +8,12 @@
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": [
     {
-      "name": "Merge Hero classic.game.retro.emulator.nes",
-      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/com.classic.games.retro.emulator.nes/master/merge_hero_banner.png",
-      "downloadUrl": "market://details?id=com.classic.game.mergehero"
+      "name": "Gameboy Color Emulator",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/gbc.jpg",
+      "downloadUrl": "market://details?id=retro.game.emulator.gbc"
     }
   ]
 }
