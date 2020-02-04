@@ -8,7 +8,7 @@
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": [
     {
       "name": "Gameboy Color Emulator",
