@@ -11,9 +11,9 @@
   "showNewGames": false,
   "newGames": [
     {
-      "name": "Gameboy Color Emulator",
-      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/gbc.jpg",
-      "downloadUrl": "market://details?id=retro.game.emulator.gbc"
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/big_update.jpg",
+      "downloadUrl": "market://details?id=classic.retro.nostalgia.nes"
     }
   ]
 }
