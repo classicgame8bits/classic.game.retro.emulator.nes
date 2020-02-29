@@ -8,12 +8,12 @@
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": [
     {
       "name": "",
       "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/big_update.jpg",
-      "downloadUrl": "market://details?id=classic.retro.nostalgia.nes"
+      "downloadUrl": "market://details?id=nostalgia.retro.nes.emulator"
     }
   ]
 }
